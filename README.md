@@ -107,4 +107,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-For support, email your-amoghdev8021@example.com or open an issue in the GitHub repository.
+For support, email amoghdev8021@example.com or open an issue in the GitHub repository.
