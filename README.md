@@ -6,6 +6,7 @@ A full-stack contact management application built with Spring Boot backend and R
 
 - Add new contacts with details like name, email, phone number
 - View list of all contacts
+- delete the contact 
 - RESTful API backend
 
 ## Tech Stack
